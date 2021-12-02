@@ -1,2 +1,8 @@
-# csgo-config
+# Credibil187 Config
 Counter-Strike: Global Offensive Config
+
+## Start Parameters
+
+```
++exec autoexec.cfg -novid -freq "240" -nojoy -fullscreen -high -language english -window -noborder -w 1280 -h 960 +cl_forcepreload 1 -limitvsconst -forcenovsync +r_dynamic 0 +mat_disable_fancy_blending 1
+```
