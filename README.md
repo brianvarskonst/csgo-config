@@ -1,6 +1,21 @@
 # Credibil187 Config
 Counter-Strike: Global Offensive Config
 
+## How to use
+
+### Directory
+
+Navigate with your shell (bash or windows command prompt/power shell) to this Directory:
+
+```bash
+\\Program Files (x86)\Steam\userdata\{USER_ID}\730\local\cfg
+```
+
+Replace `\\` with your Volume where you installed CSGO, for example: `C:\` 
+
+
+Then you can just run `git clone` or download and extract the downloaded zip.
+
 ## Start Parameters
 
 ```
